@@ -3,8 +3,7 @@
 
 A high-performance, immersive 3D portfolio website built to showcase software engineering skills through cutting-edge web technologies. This project merges robust backend logic concepts with a visually striking, interactive frontend.
 
-![Portfolio Preview](https://github.com/Prayush09/Portfolio/raw/main/preview.png)
-*(Note: Replace with an actual screenshot of your hero section)*
+![Portfolio Preview](https://drive.google.com/file/d/17S-k4dpzE6ejGzOT2RAJ3RouZCImwvgL/view?usp=sharing)
 
 ## 🚀 Live Demo
 **[https://prayushgiri.com](https://prayushgiri.com)**
